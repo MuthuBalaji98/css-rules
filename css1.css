@@ -1,0 +1,21 @@
+@import "../css2.css";
+
+.about {
+    border: 2px solid yellow;
+
+}
+
+
+p {
+    background-color: red !important ;
+}
+p {
+    background-color: darkgoldenrod ;
+}
+#id {
+    background-color: green ;
+}
+
+.class {
+    background-color: orange;
+}

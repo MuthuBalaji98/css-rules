@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+
+@font-face {
+    font-family: myFont;
+    src: url(./thank_you/Thankyou.ttf);
+  }
+  
+  div {
+    font-family: myFont;
+  }
